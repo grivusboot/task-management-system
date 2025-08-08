@@ -15,7 +15,7 @@ We take the security of Task Management System seriously. If you believe you hav
 
 **Please do not report security vulnerabilities through public GitHub issues.**
 
-Instead, please report them via email to `security@taskmanagement.com`.
+Instead, please report them via email to `ag171141@gmail.com`.
 
 You should receive a response within 48 hours. If for some reason you do not, please follow up via email to ensure we received your original message.
 
@@ -93,7 +93,7 @@ We would like to thank all security researchers and users who have responsibly d
 ## Contact
 
 For security-related questions or concerns, please contact us at:
-- Email: `security@taskmanagement.com`
+- Email: `ag171141@gmail.com`
 - PGP Key: [Available upon request]
 
 ---
