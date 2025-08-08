@@ -2,6 +2,23 @@
 
 A comprehensive Laravel-based task management system with a two-tier administrator system, featuring project management, task tracking, and user role management.
 
+## 📱 Screenshots
+
+### Dashboard
+![Dashboard](Screenshots/dashboard.png)
+
+### Kanban Board
+![Kanban Board](Screenshots/kanban-board.png)
+
+### Admin Panel
+![Admin Panel](Screenshots/admin-panel.png)
+
+### Create Project
+![Create Project](Screenshots/create-project.png)
+
+### Tasks Management
+![Tasks Management](Screenshots/tasks.png)
+
 ## 🚀 Features
 
 ### Core Functionality
