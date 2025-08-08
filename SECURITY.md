@@ -93,7 +93,7 @@ We would like to thank all security researchers and users who have responsibly d
 ## Contact
 
 For security-related questions or concerns, please contact us at:
-- Email: `security@taskmanagement.com`
+- Email: `ag171141@gmail.com`
 - PGP Key: [Available upon request]
 
 ---
